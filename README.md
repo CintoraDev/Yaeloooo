@@ -1,3 +1,5 @@
+<img src="./github-header-banner.png" width="100%" />
+
 <div align="center">
   <img src="./github-header-banner.png" width="100%" alt="Portada Yael González"/>
 </div>
