@@ -1,2 +1,2 @@
 # Yael-Gonzalez
-![Portada](./nombre-de-tu-imagen.png)
+![Portada](./github-header-banner.png)
