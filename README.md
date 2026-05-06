@@ -1,6 +1,3 @@
-# Yael-Gonzalez
-![Portada](./github-header-banner.png)
-
 <div align="center">
   <img src="./github-header-banner.png" width="100%" alt="Portada Yael González"/>
 </div>
